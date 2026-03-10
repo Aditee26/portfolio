@@ -1,124 +1,137 @@
-My Portfolio Website
-A pixel-themed developer portfolio that shows who I am, what I build, and how I solve problems.
+🚀 Aditee Singh — Developer Portfolio
+<p align="center"> <a href="https://aditeesingh.netlify.app/"> <img src="https://img.shields.io/badge/Live%20Website-Visit%20Portfolio-blue?style=for-the-badge&logo=netlify"> </a> <a href="https://github.com/Aditee26"> <img src="https://img.shields.io/github/followers/Aditee26?style=for-the-badge&logo=github"> </a> <img src="https://img.shields.io/badge/Built%20With-HTML%20CSS%20JS-orange?style=for-the-badge"> </p>
+🌐 Live Portfolio
 
-🎮 What's This?
-My personal portfolio site built with pure HTML, CSS, and JavaScript. No frameworks, no bloat - just clean code that works. It's got that retro gaming vibe because why should websites be boring?
+🔗 Visit Here:
+https://aditeesingh.netlify.app/
 
-🛠️ What I Used
-HTML5 - For the bones
+A retro pixel-themed developer portfolio that highlights my skills, projects, certifications, and coding journey.
 
-CSS3 - For the looks (with some cool grid/flexbox magic)
+The goal was to build a fast, minimal, and fully custom portfolio using core web technologies only, without relying on heavy frameworks.
 
-JavaScript - For the brains
+🎮 Portfolio Preview
+![Portfolio Preview](assets/portfolio-preview.png)
+🧠 About The Project
 
-GitHub - For hosting images
+This portfolio demonstrates my understanding of core front-end development concepts by building everything from scratch.
 
-🔧 How It's Built
-The Structure:
-text
-Single HTML file (because I like keeping things simple)
-├── Loading screen (makes it feel like an actual game)
-├── Header with pixel-perfect navigation
-├── Hero section (that's me!)
-├── About & Skills (what I know)
-├── Projects (what I've built)
-├── LeetCode stats (how I practice)
-├── Certifications (what I've learned)
-└── Contact (how to reach me)
-Cool Stuff Inside:
-Pixel buttons that actually look clickable
+Instead of using frameworks, I focused on:
 
-Project cards that flip and stuff
+✔ Writing clean vanilla code
+✔ Designing a unique UI
+✔ Creating interactive components
+✔ Maintaining fast loading performance
 
-Certification carousel I coded from scratch
+The retro gaming UI gives the site personality while keeping the design modern and functional.
 
-🎯 Why I Built It This Way
-No frameworks - Wanted to prove I actually understand how the web works
+🛠️ Tech Stack
+Frontend
 
-Single HTML file - Easy to deploy, easy to maintain
+HTML5
 
-Custom everything - No Bootstrap, no templates
+CSS3
 
-Fast loading - Because nobody likes waiting
+JavaScript (Vanilla)
 
-🔗 Important Links
-GitHub: github.com/Aditee26
+Concepts Used
 
-LeetCode: leetcode.com/u/Aditee_Singh_2006
+Flexbox
 
-LinkedIn: linkedin.com/in/aditee-singh-cse
+CSS Grid
 
-Email: aditeesingh2006@gmail.com
+Animations
 
-🚀 How to Run It
-Download the HTML file
+Responsive design
 
-Open it in any browser
+DOM Manipulation
 
-That's it. Seriously.
+Tools
 
-Or if you're fancy:
+GitHub
 
-bash
-# Clone it
+Netlify
+
+LeetCode API integration
+
+✨ Features
+
+🎮 Pixel-themed UI design
+⚡ Fast loading (no frameworks)
+🎬 Animated loading screen
+🧭 Pixel navigation system
+📦 Interactive project cards
+🎠 Custom-built certification carousel
+📊 LeetCode stats section
+📱 Fully responsive layout
+
+📂 Project Structure
+portfolio/
+│
+├── index.html
+├── assets/
+│   ├── profile.png
+│   ├── certificates/
+│   └── project-images/
+│
+├── styles
+└── scripts
+
+(Your current version mainly runs through a single HTML file for simplicity.)
+
+🚀 Running the Project
+
+Clone the repository:
+
 git clone https://github.com/Aditee26/portfolio.git
-
-# Open it
 cd portfolio
-open index.html  # On Mac
-# or
-start index.html # On Windows
-# or just double-click it like a normal person
-🎨 Customizing for Yourself
-Want to use this for your portfolio? Go for it. Just:
 
-Replace my info with yours
+Then open:
 
-Update the projects section
+index.html
 
-Change the colors if you want (CSS variables at the top)
+in your browser.
 
-Don't forget to update the certs and links
+🎨 Customizing
 
-⚠️ Things to Know
-Profile picture loads from assets/profile.png - make sure you have one
+You can easily adapt this portfolio:
 
-Certificates are hosted on my GitHub - you'll need to host your own
+1️⃣ Replace personal information
+2️⃣ Add your own projects
+3️⃣ Update certifications
+4️⃣ Change color theme in CSS variables
+5️⃣ Replace profile image
 
-Resume PDF is linked from my GitHub - update the URL
+🔗 Connect With Me
 
-It's all in one file because I like it that way
+💼 LinkedIn
+https://linkedin.com/in/aditee-singh-cse
 
-📱 Works On
-Chrome (obviously)
+💻 GitHub
+https://github.com/Aditee26
 
-Firefox (yeah, that too)
+📊 LeetCode
+https://leetcode.com/u/Aditee_Singh_2006
 
-Safari (if you're into Macs)
+🌐 Portfolio
+https://aditeesingh.netlify.app
 
-Probably your smart fridge (haven't tested that yet because paiso ki kami)
+📧 Email
+aditeesingh2006@gmail.com
 
-🤔 FAQ
-Q: Why no React/Vue/Angular?
-A: Because sometimes simple is better. Also, it loads faster.
+📱 Browser Support
 
-Q: Can I really use this for my portfolio?
-A: Yes! Just give credit somewhere if you're feeling nice.
+Tested on:
 
-Q: Is it really just one HTML file?
-A: Yep. Check the source. It's all there.
+✔ Chrome
+✔ Firefox
+✔ Safari
+
+⭐ Support
+
+If you like this project, consider giving it a star ⭐ on GitHub.
+
+It helps others discover the project and supports my work.
 
 📄 License
-Do whatever you want with it.
 
-📬 Need Help?
-Found a bug? Want to suggest something?
-
-Check if it's actually a bug
-
-Try fixing it yourself (good practice!)
-
-Still stuck? Email me: aditeesingh2006@gmail.com
-
-Last updated: February 2026
-
+This project is open source and available for learning and inspiration.
